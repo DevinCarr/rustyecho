@@ -1,7 +1,7 @@
 [package]
 name = "rustyecho"
 version = "0.1.0"
-authors = "Devin Carr"
+authors = ["Devin Carr"]
 description = "Twitch IRC Echo Bot"
 keywords = ["IRC", "echo", "bot"]
 license = "MIT"
