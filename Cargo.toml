@@ -1,0 +1,16 @@
+[package]
+name = "rustyecho"
+version = "0.1.0"
+authors = "Devin Carr"
+description = "Twitch IRC Echo Bot"
+keywords = ["IRC", "echo", "bot"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/DevinCarr/rustyecho"
+
+[dependencies.irc]
+version = "0.11.0"
+default-features = false
+
+[dependencies.rustc-serialize]
+version = "0.3"

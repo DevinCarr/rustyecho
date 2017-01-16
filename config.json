@@ -1,0 +1,15 @@
+{
+  "owners": ["TWITCH_USERNAME"],
+  "nickname": "TWITCH_USERNAME",
+  "nick_password": "oauth:",
+  "username": "TWITCH_USERNAME",
+  "server": "irc.chat.twitch.tv",
+  "port": 6667,
+  "password": "oauth:",
+  "use_ssl": false,
+  "encoding": "UTF-8",
+  "channels": ["#channel"],
+  "umodes": "+RB-x",
+  "ping_time": 240,
+  "ping_timeout": 10
+}
